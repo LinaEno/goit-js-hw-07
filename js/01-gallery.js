@@ -39,7 +39,7 @@ function onImageClick(event) {
 
     instance.show();
 
-    document.removeEventListener('keydown', event => {
+    document.addEventListener('keydown', event => {
         if (event.code === 'Escape') {
             instance.close();
         }
