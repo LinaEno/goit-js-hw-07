@@ -62,4 +62,69 @@ export const galleryItems = [
       'https://cdn.pixabay.com/photo/2019/05/17/04/35/lighthouse-4208843_1280.jpg',
     description: 'Lighthouse Coast Sea',
   },
-];
+  {
+    preview:
+      'https://picsum.photos/id/237/640/427',
+    original:
+      'https://picsum.photos/id/237/1280/853',
+    description: 'Little Dog',
+  },
+  {
+    preview:
+      'https://picsum.photos/id/238/640/427',
+    original:
+      'https://picsum.photos/id/238/1280/853',
+    description: 'City',
+  },
+  {
+    preview:
+      'https://picsum.photos/id/239/640/427',
+    original:
+      'https://picsum.photos/id/239/1280/853',
+    description: 'Dandelion',
+  },
+    {
+    preview:
+      'https://picsum.photos/id/241/640/427',
+    original:
+      'https://picsum.photos/id/241/1280/853',
+    description: 'Mountain Road',
+  },
+  {
+    preview:
+      'https://picsum.photos/id/243/640/427',
+    original:
+      'https://picsum.photos/id/243/1280/853',
+    description: 'Forest',
+  },
+  
+  {
+    preview:
+      'https://picsum.photos/id/244/640/427',
+    original:
+      'https://picsum.photos/id/244/1280/853',
+    description: 'Pelican',
+  },
+  {
+    preview:
+      'https://picsum.photos/id/236/640/427',
+    original:
+      'https://picsum.photos/id/236/1280/853',
+    description: 'Sea',
+  },
+  {
+    preview:
+      'https://picsum.photos/id/235/640/427',
+    original:
+      'https://picsum.photos/id/235/1280/853',
+    description: 'Mountain',
+  },
+  {
+    preview:
+      'https://picsum.photos/id/234/640/427',
+    original:
+      'https://picsum.photos/id/234/1280/853',
+    description: 'Paris',
+  },
+
+]

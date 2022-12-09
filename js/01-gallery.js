@@ -57,6 +57,9 @@ function onEscClick(event) {
           instance.close();
           return;
         }
-}
+};
+
+
+
 
 
